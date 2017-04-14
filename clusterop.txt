@@ -1,4 +1,4 @@
 lavanta,lavanya
 Madhu,Madhuya,madhuc
 thota,yes
-yes,No
+yes,N
